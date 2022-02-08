@@ -1,3 +1,17 @@
+# Wordle spécial anniversaire de Sag.
+
+
+
+[Demo](https://sagersaire.netlify.app)
+
+On peut faire deviner le mot que l'on souhaite en l'encodant en base64 (avec [ce site](https://www.base64encode.org/) par exemple) et en incluant le code à l'URL après un "?". Par exemple : https://sagersaire.netlify.app/?YW5uaXY=
+
+Open source
+
+Adaptation en français de https://github.com/yyx990803/vue-wordle
+
+
+
 # Vue Wordle
 
 [Live demo](https://vue-wordle.netlify.app/)
