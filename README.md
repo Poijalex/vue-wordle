@@ -1,4 +1,4 @@
-# Wordle spécial anniversaire de Sag.
+# Wordle spécial anniversaire de Sag
 
 
 
@@ -8,6 +8,7 @@ On peut faire deviner le mot que l'on souhaite en l'encodant en base64 (avec [ce
 
 Open source
 
+Liste de mots depuis : https://github.com/YassinHajaj/wordle
 Adaptation en français de https://github.com/yyx990803/vue-wordle
 
 
