@@ -184,7 +184,7 @@ function genResultGrid() {
       id="source-link"
       href="https://github.com/yyx990803/vue-wordle"
       target="_blank"
-      >Source (c'est fait à partir de ça !)</a
+      >Source</a
     >
   </header>
   <div id="board">
